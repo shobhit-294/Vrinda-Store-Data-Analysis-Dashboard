@@ -4,7 +4,7 @@ The Vrinda Store Data Analysis Dashboard is a comprehensive project developed to
 # Objective:
 Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow their sales in 2023.
 
-#Key Features:
+# Key Features:
 
 Data Extraction and Preparation: The project involves extracting raw sales data from various sources and transforming it into a structured format suitable for analysis. This includes data cleaning, formatting, and consolidation to ensure accurate and reliable results.
 
@@ -18,15 +18,15 @@ Forecasting and Predictive Analysis: Using historical sales data, the project em
 
 Data-driven Insights: The project aims to extract actionable insights from the data analysis. These insights empower decision-makers to optimize pricing, identify cross-selling opportunities, improve operational efficiency, and enhance customer satisfaction.
 
-#Technologies Used:
+# Technologies Used:
 
 The Vrinda Store Data Analysis Dashboard is built entirely on Microsoft Excel, utilizing its powerful features, including data manipulation, formulas, pivot tables, conditional formatting, and charting capabilities. It demonstrates the versatility and effectiveness of Excel as a data analysis tool.
 
-#Usage:
+# Usage:
 
 The dashboard is designed to be user-friendly and accessible to stakeholders at all levels. It can be used by business owners, managers, sales teams, and marketing professionals to gain a comprehensive understanding of the store's performance and make informed decisions.
 
-#Conclusion:
+# Conclusion:
 
 The Vrinda Store Data Analysis Dashboard project showcases the power of data analysis in understanding business performance. By leveraging Excel's capabilities, it empowers stakeholders to unlock valuable insights, optimize operations, and drive growth for Vrinda Store. This project serves as a valuable resource for those seeking to harness the potential of data analysis to enhance business decision-making processes.
 
