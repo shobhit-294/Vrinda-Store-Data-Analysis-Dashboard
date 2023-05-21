@@ -22,6 +22,24 @@ Data-driven Insights: The project aims to extract actionable insights from the d
 
 The Vrinda Store Data Analysis Dashboard is built entirely on Microsoft Excel, utilizing its powerful features, including data manipulation, formulas, pivot tables, conditional formatting, and charting capabilities. It demonstrates the versatility and effectiveness of Excel as a data analysis tool.
 
+## Sample Questions
+
+Compare the sales and orders using single chart
+
+Which month got the highest sales and orders?
+
+Who purchased more- men or women in 2022?
+
+What are different order status in 2022?
+
+List top 10 states contributing to the sales?
+
+Relation between age and gender based on number
+
+Which channel is contributing to maximum sales?
+
+Highest selling category?, etc.
+
 # Usage:
 
 The dashboard is designed to be user-friendly and accessible to stakeholders at all levels. It can be used by business owners, managers, sales teams, and marketing professionals to gain a comprehensive understanding of the store's performance and make informed decisions.
